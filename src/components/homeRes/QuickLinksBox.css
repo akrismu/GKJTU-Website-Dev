@@ -1,0 +1,75 @@
+.seeMoreButton{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin-left: 30px;
+    padding: 0px 20px;
+    border-color: black;
+    border: 3px;
+    border-style: solid;
+    border-radius: 50px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  .seeMoreButton:hover{
+    transform:scale(1.1);
+    border-color: #2B88D9;
+    color: #2B88D9;
+  }
+  .seeMore{
+    font-size:large;
+    font-weight: bolder;
+    padding-right: 5px;
+  }
+
+  .seeMoreButton img { 
+    transition: transform 0.3s; 
+  }
+  
+  .seeMoreButton:hover img {
+    transform: translateX(5px); 
+  }
+
+  .quick-links-box {
+    background-color: #D8F2F0; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    margin-bottom: 50px; 
+    max-width: 960px; 
+  }
+  
+  .quick-links-box h2, .quick-links-box p,
+  .quick-links-box .see-all-button {
+    text-align: center; 
+    width: 100%; 
+    display: block; 
+  }
+  
+  .quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; 
+    margin-bottom: 30px;
+  }
+  
+  .quick-links button {
+    background-color: #2B88D9; 
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px; 
+    cursor: pointer;
+    transition: background-color 0.3s;
+    transition: transform 0.3s ease;
+  }
+  
+  .quick-links button:hover {
+    background-color: #296ec8; 
+    transform:scale(1.1);
+  }
+
+  

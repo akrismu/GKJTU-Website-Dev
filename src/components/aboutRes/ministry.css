@@ -1,0 +1,47 @@
+.ministry-listing {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.ministry-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    cursor: pointer;
+}
+
+.ministry-item:hover {
+    background-color: #D8F2F0;
+    transform: translateY(-2px);
+}
+
+.ministry-content {
+    flex-grow: 1;
+    margin-right: 10px; 
+}
+
+.arrow-icon {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s ease;
+    transition: rotate 0.3s ease;
+}
+
+.ministry-item:hover .arrow-icon {
+    transform: scale(1.2);
+    rotate: 90deg;
+}
+
+.ministry-item h2 {
+    color: #1657ac;
+    margin-bottom: 5px;
+}
+
+.description {
+    color: #666;
+}

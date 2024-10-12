@@ -1,0 +1,319 @@
+
+{
+  "seeMoreBtn": "See More",
+
+  "navBar":{
+    "home":"HOME",
+    "news": "NEWS",
+    "churches": "CHURCHES",
+    "about": "ABOUT",
+    "sinode": "SINODE",
+    "history": "HISTORY",
+    "mission": "MISSION",
+    "ministry": "MINISTRY"
+  },
+
+  "banner": {
+    "welcomeMessage": "Welcome to our Church!"
+  },
+
+  "storySection": {
+    "title": "History of GKJTU",
+    "description": "Small description, click on it for more",
+    "storyTitle": "The GKJTU (Greja Kristian Jawa Tangan Utara)",
+    "story": "In the mid-19th century, amidst the lush landscapes of Simo, Boyolali, a single family ignited a movement that would transform their community and lay the foundation for the North Central Java Christian Church (GKJTU). The story begins with D.D. Le Jolle, a plantation entrepreneur, and his family, who embraced the gospel with fervor, not just within their household but extending their faith to their employees and the surrounding village. This initial act of faith and evangelization set in motion a journey of growth, challenge, and unwavering belief.",
+    "more": "more..."
+    },
+
+  "quickLinks": {
+    "title": "Churches",
+    "description": "Information about the churches of GKJTU"
+  },
+
+  "churchList": {
+    "title": "Mission and Evangelism in the Era of Mrs. Le Jolle (1850-1857)",
+    "story": [
+      "The Central North Java Christian Church (GKJTU) originated from a Dutch woman named Ellise Johanna le Jolle in the village of Simo, Boyolali. Although the Le Jolle family was already Christian, Mrs. Le Jolle experienced a special conversion in 1850, as she wrote in her autobiography:",
+      "“There, in solitude, the voice of love was so pressing. God has long been trying to awaken faith in my heart. A deep feeling of sinfulness made me fall to my knees. When I opened the Bible, I found John 14, an amazing verse appeared: 'Whoever believes in God also believes in Me.' It comforted and encouraged my soul and filled it with peace that surpasses all understanding” (E.J Vollenhoven. “Einiges aus dem Leben”, M. u. H June 1906, column 116-117)",
+      "Afterwards, Mrs. Le Jolle underwent a renewal of faith and became 'mission minded.' She began to proclaim the gospel to the laborers working on her plantation. However, she encountered obstacles because at that time the laborers were afraid of the Dutch and were difficult to approach. On the other hand, she had difficulty communicating because she could not speak Javanese and could only speak Malay. These obstacles did not make her give up; the D.D.Le Jolle family contacted Rev. Jellesma from Mojowarno (GKJW). Subsequently, a disciple of Rev. Jellesma, Petroes Sadaja or Pieter Sadaya, was sent to teach her workers. Every Sunday, Mrs. Le Jolle and Petroes Sadaya would discuss a Bible theme in Malay, then Sadaya would preach it in the Sunday service.",
+      "Around the year 1855, Elise, assisted by Hoezoo, requested permission from the Dutch government to clear a forest and make it a settlement. Elise was allowed to clear a forest in the Salatiga area, and the place was named Njemoh (Nyemoh), now called Wonorejo. A number of 50 Elisabeth's laborers moved to that place. There, Sedaya became the community leader, while Elisabeth supported from behind, and Hoezoo acted as a kind of consul. In 1857, Elisabeth had to return to the Netherlands because her husband died. This event marked the beginning of the fellowship problem in Njemoh.",
+      "In the same year, Le Jolle returned to the Netherlands and married Van Vollenhoven. Even in the Netherlands, Le Jolle still thought about the congregation in Njemoh so that they could continue to live and be served. Then she contacted Rev. HW Witteveen, who served in the congregation of Ermelo-Netherlands. After a discussion, R.de Boer was sent to Njemoh on October 27, 1868, and arrived on June 4, 1869. The congregation in Njemoh grew to 70 people by 1876. In 1881, the Njemoh hamlet was merged with other hamlets to become a village with a Christian headman. The name of this village is Wonoredjo."
+    ]
+  },
+
+  "newsBlock": {
+    "filter": "Filter",
+    "chruch": "Church",
+    "allChurches": "All Churches",
+    "date": "Date",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+
+  "aboutPage": {
+    "title": "Board Sinode",
+    "description": "The current List of Employees in the GKJTU Sinode",
+    "chairmen": "Chairmen",
+    "employee": "Employee"
+  },
+
+  "historyPage": {
+    "title": "Our History",
+    "timeline": "Timeline",
+    "events": 
+      [
+        {
+          "year": "1850",
+          "title": "Mission and Evangelism Begin",
+          "description": "Ellise Johanna le Jolle starts missionary efforts in Simo, Boyolali, following her conversion and is driven by a deep spiritual awakening to spread the Gospel despite cultural and language barriers."
+        },
+        {
+          "year": "1853",
+          "title": "The Foundation of Faith",
+          "description": "D.D.Le Jolle's family began spreading the gospel in Simo village, Boyolali, despite challenges, marking the start of the church's mission. Collaboration with Ds. Jellesma from Mojowarno (GKJW) led to Petroes Sadaja (Pieter Sadaya) being sent to teach and preach, fostering the community's spiritual development."
+        },
+        {
+          "year": "1855",
+          "title": "Establishment of Njemoh (Wonorejo)",
+          "description": "Elise and Hoezoo obtain permission to open a forest for settlement, leading to the establishment of Njemoh, now Wonorejo, and the relocation of 50 workers, laying the groundwork for the community's future growth."
+        },
+        {
+          "year": "1857",
+          "title": "A Leader's Legacy",
+          "description": "Following D.D.Le Jolle's death, his family, especially Elisabeth Le Jolle, continues his mission in Njemoh near Salatiga, nurturing the fledgling Christian community. Elisabeth's return to the Netherlands marks a pivotal moment, as she works from abroad to support the congregation."
+        },
+        {
+          "year": "1868-1869",
+          "title": "A New Spiritual Leader",
+          "description": "R.de Boer's arrival in Njemoh in 1869 brings new leadership, invigorating the growing congregation with renewed spiritual energy. His journey was influenced by Elisabeth Le Jolle's efforts from the Netherlands to ensure the community's spiritual care."
+        },
+        {
+          "year": "1876-1881",
+          "title": "Community Consolidation",
+          "description": "The congregation in Njemoh grows to 70 people, and the unification of hamlets forms Wonoredjo village, fostering a strong community spirit with a Christian village head."
+        },
+        {
+          "year": "1884-1941",
+          "title": "The Era of Salatiga Zending",
+          "description": "The arrival of Dutch and German pastors signifies the establishment of Salatiga Zending. Significant developments include the establishment of medical facilities and schools, marking a pivotal period in church development and community service."
+        },
+        {
+          "year": "1935",
+          "title": "Purwodadi Congregation's Independence",
+          "description": "The Salatiga Zending congregation in Purwodadi appoints its own Gospel Teacher, marking an important step towards self-governance."
+        },
+        {
+          "year": "1937",
+          "title": "Steps Towards Organizational Maturity",
+          "description": "Formation of the Council of Agoeng represents progress towards mature church governance and organizational structure, fostering greater independence and self-direction within the church community."
+        },
+        {
+          "year": "1949",
+          "title": "GKJTU's Legal Recognition",
+          "description": "GKJTU achieves legal status and independence from the Unitarian Synod, marking its official establishment."
+        },
+        {
+          "year": "1965",
+          "title": "Post-Conflict Membership Surge",
+          "description": "Following the G30SPKI events, GKJTU experiences a surge in membership, reflecting societal changes and the conversion of nearly two million 'Jawa Abangan' to Christianity, a significant growth moment."
+        },
+        {
+          "year": "1969",
+          "title": "Emphasis on Education",
+          "description": "The reopening of the 'Sabda Mulya' Evangelism School underscores the church's renewed focus on education and preparation of leaders for rural ministry."
+        },
+        {
+          "year": "1972",
+          "title": "National Integration",
+          "description": "Joining the Council of Churches in Indonesia, GKJTU gains national recognition and integrates into the broader Christian community, highlighting its commitment to wider ecclesiastical and societal engagement."
+        },
+        {
+          "year": "1984-1985",
+          "title": "Reform and Renewal",
+          "description": "The implementation of Law No. 8 of 1985 leads to significant reforms, focusing on core teaching and worship principles, symbolizing a period of renewal and adherence to foundational Christian doctrines."
+        }
+    ]
+  },
+
+  "ministryPage": {
+    "departments": [
+      {
+        "title": "Koinonia Department",
+        "description": "Maintaining fellowship in church, classis and synod",
+        "link": "Koinonia"
+      },
+      {
+        "title": "Marturia Department",
+        "description": "Preach the gospel to all nations",
+        "link": "Mauturia"
+      },
+      {
+        "title": "Diakonia Departement",
+        "description": "Extend impactful services beyond the church, fostering faith introduction to the broader community",
+        "link": "Diakonia"
+      }
+    ], 
+    "about": "About",
+    "depart": "Departments"
+  },
+
+  
+  "Koinonia": {
+    "header": "Koinonia Department",
+    "description": "The Koinonia department is tasked with maintaining fellowship within the church, classis, and synod, with the goal of sustaining a strong fellowship both in faith and in relationships among the congregation as a form of devotion to Jesus, the Head of the Church. To maintain strong fellowship, the Koinonia department has 4 Departments",
+    "departments": [
+      {
+        "titel": "Department of Church Unity and Clergy Empowerment (DKKG)",
+        "description": "A department that oversees church personnel: Church Council, Evangelists, and Pastors by providing programs:",
+        "program": [" Strengthening local churches in building fellowship", " Preparing and providing pastors in GKJTU churches", " Enhancing the capacity of church personnel through training and education", " Offering mentorship to pastors through pastor pastorum service"]
+      },
+      {
+        "titel": "Children's Categorical Service Department",
+        "description": "This department specifically oversees programs for children to ensure they gain faith awareness and believe that Jesus Christ is Lord. The conducted programs",
+        "program": [" Providing Sunday School storybooks", " Enhancing the capacity of Sunday School teachers through training and education", " Providing contextual learning media for children", " Children's Jamboree and various joint activities"]
+      },
+      {
+        "titel": "Youth Service Department",
+        "description": "This department is specifically to provide services and programs for the church's youth. The service program aims to strengthen the fellowship of youth in the church amidst globalization challenges, equip youth to engage in church service, and strengthen their faith. The Youth Categorical Department's programs",
+        "program": [" Building Youth Fellowship with Synod-wide Youth Rallies", " Capacity Building for youth through leadership and ministry enhancement", " Youth and Entrepreneurship Capacity Building", " Providing theological education scholarships"]
+      },
+      {
+        "titel": "Women's Service Department",
+        "description": "A department specifically for building fellowship among women across the GKJTU Synod, aimed at enhancing women's capacity in the church. With programs:",
+        "program": [" Building fellowship through Women's Great Meetings", " Providing and offering advocacy for women", " Enhancing women's capacity in service at church and in their communities", " Improving women's skills in supporting family and church life"]
+      }
+    ],
+    "goalTitle": "Koinonia Field Programs and Projects for 2024:",
+    "goal": ["Pastor Help Pastor Program", "Trainer of Trainer for Inclusive Church", "Capacity Building for Church Management", "Theological Scholarships", "Capacity Building for Sunday School Teacher", "Providing Books for Sunday School Children", "Youth and Leadership Capacity Building in GKJTU Context", "Climate Justice Workshop for Women"],
+    "images": [
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/inuoxln8bqjdrsahnnkf.jpg",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/lziqyj74opcjttalj4bp.jpg",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/a72c7klvk9jpl8ix9bte.jpg"
+    ]
+  },
+  
+
+  "Marturia": {
+    "header": "Marturia",
+    "description": "As one of the church's duties is to preach the gospel to all nations, GKJTU has the responsibility to spread the joyous news through various programs:",
+    "departments": [
+      {
+        "titel": "Testimony Department",
+        "description": "GKJTU is called to bear witness by preaching the Gospel wherever GKJTU is present, according to their context and culture. The goal is for the church's presence to have a positive impact on the community in their relationship with God, with one another, with the environment, and with all His creations."
+      },
+      {
+        "titel": "Research, Study, and Publishing Institute",
+        "description": "GKJTU recognizes that changes in society are ongoing and rapidly evolving. GKJTU understands that the church's presence will be more impactful and meaningful if the services provided are relevant to these changes. This department has programs:",
+        "program": ["Research on social and community changes", "Research on environmental changes", "Providing contextual learning media for children", "Study of global issues affecting the church", "Publishing books relevant to the church and community."]
+      },
+      {
+        "titel": "Noble Character Development Institute",
+        "description": "The Noble Character Development Institute was established as the church's responsibility to maintain and develop noble character values. As society progresses, people begin to forget and lose these noble values. The degradation of noble values from social life due to rapid cultural changes. Therefore, GKJTU has built a training and development center for noble character in Kopeng, open to the public with facilitators and 13 modules on noble character values."
+      }
+    ]
+  },
+
+  "Diakonia": {
+    "header": "Diakonia",
+    "description": "One of the church's duties is to provide services to its community. GKJTU continuously learns to evolve conventional diaconal services into transformative diakonia, ensuring diaconal programs are felt and have a sustainable impact. The target of the diakonia program is no longer limited to the church but can extend to the broader community, allowing the church to introduce their faith to everyone.",
+    "departments": [
+      {
+        "titel": "Project",
+        "program": ["Support and service for People Living with HIV/AIDS", "Support and Service for marginalized groups", "Support and Service for people with disabilities", "Pastoral Counseling Services", "Transformative diakonia for business development", "Development and training of community-based creative economy", "Disaster Response", "Enhancing Disaster-Resilient Churches"]
+      }
+    ],
+    "images": [
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/xvpyofhneuggcm5uxddr",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/d9hvdytzykmhqxwrqymr",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/p0ztm2ldumn2dgwscnkl",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/a7esa9tsbazdyw8d5uli"
+    ]
+  },
+
+  "missionPage": {
+    "title": "Vission & Mission",
+    "description": "GKJTU strives for continuous growth.",
+    "statements": [
+      {
+        "title": "Mature",
+        "text": [
+          "Recognizing the difference between right and wrong then doing what is right (Hebrews 5:14)",
+          "Not easily swayed by the teachings and views of others (Ephesians 4:13-16)",
+          "Rooted in love (Ephesians 4:13-16) - Words and actions and church organization policies that 'flow from love'",
+          "Serving the church (Ephesians 4:13-16) - Congregation members able to find their place to serve and encourage one another.",
+          "Living with an eternal perspective (Philippians 3:13-15) - Consciously striving to nurture continuous spiritual growth because they know this life is temporary.",
+          "Controlling their tongue (James 3:2)",
+          "Reflecting God's character to the world (Matthew 5:48)"
+        ]
+      },
+      {
+        "title": "Independent",
+        "description": "Having the initiative and alternative options to achieve independence",
+        "text": [
+          "Theology",
+          "Human resources",
+          "Funding sources to support the effectiveness and acceleration of the implementation of the Church's Triple Calling"
+        ]
+      },
+      {
+        "title": "Mission",
+        "description": "The growth of systemic movement within congregations and the GKJTU organization, to become a vehicle for the realization of:",
+        "text": [
+          "The Mission of God's Love",
+          "The expansion of the joyous news to all creation",
+          "Humanizing Humanity",
+          "Creating spaces for dialogue across works, cultures, faiths, and religions, as well as a binder for the integrity in a diverse society"
+        ]
+      },
+      {
+        "title": "Strategy plan",
+        "description": "Long-term goals are crucial for the implementation of progress. GKJTU recognizes this and is working on long-term plans up to 2028",
+        "text": [
+          "Developing personal capacity, inter-congregational relations, and organizational to realize the church's mature character;",
+          "Developing initiatives to achieve theological independence, resources, and funding;",
+          "Developing and multiplying congregational movements to engage in realizing peace, harmony, justice, and prosperity in society"
+        ]
+      }
+    ]
+  },
+  
+  "churchPages": {
+    "history": "History",
+    "service": "Worship",
+    "contact": "Contact",
+    "churches": [
+      {
+        "id": "ngadumang",
+      "title": "GKJTU Ngaduman",
+      "name": "GKJTU Manunggal Church, Ngaduman",
+      "previewImage": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710828800/ngadumang/preview.png",
+      "shortDescription": "The GKJTU Manunggal Church in Ngaduman village was established in the turbulent 1960s and has grown from humble beginnings into a vibrant Christian community with nearly 300 members today.",
+      "longitude": 110.446200,
+      "latitude": -7.372680,
+      "village": "Ngadumang",
+      "bannerUrl": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710904695/ngadumang/hbobfnfprz66jqxlxycm.png",
+      "description": [
+        "The GKJTU Manunggal Church in Ngaduman village was established in the mid-1960s during a period of political turmoil in Indonesia. At that time, the government required citizens to adopt a religion. A health worker named Mr. Isai played a key role in spreading Christianity to the Ngaduman area through his work traveling between villages.", 
+        "In August 1966, the first 35 residents of Ngaduman were baptized, marking the start of the Christian community there. They initially attended services in a nearby village called Puyang. As more Ngaduman residents converted, a need arose for a local church building.",
+        "Land was donated by residents, and in 1977 construction began on the first church building in Ngaduman itself, which was completed in 1980. However, the growing congregation soon required an even larger space.",
+        "In 1989, work commenced on a new, bigger church funded through the efforts of the congregation members themselves. This current church building was inaugurated in April 2007.",
+        "Today, the GKJTU Manunggal Church in Ngaduman has a total of 287 members from 72 families. It serves as a spiritual home for the Christian community that took root through the efforts of early believers almost 60 years ago."
+      ],
+      "services": [
+        "Sunday 07.00 – 09.00 Public Worship at Church",
+        "Sunday 07.30 – 08.30 Sunday School at Church",
+        "Tuesday 16.30 – 17.30 Anjangsana SM at the congregation's house",
+        "Thursday 19.00 – 20.00 Prayer Group Worship at the Congregation Home",
+        "Friday 18.30 – 19.30 Youth Anjangsana at the Pastory",
+        "Saturday 19.00 – 20.30 Youth Anjangsana at the Congregation House"
+      ],
+      "contact": {
+        "name": "Sri Rahayu",
+        "phone": "+62 838-3955-4720",
+        "address": "Ngaduman, Tajuk, Kec. Getasan, Kabupaten Semarang, Jawa Tengah 50774"
+      },
+      "images": ["https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908269/ngadumang/wjh8ctfrz6txptcnsjqn.jpg", "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908275/ngadumang/z5p3wauhi1nrmoyftdiu.jpg"]
+      }
+    ]
+  }
+}

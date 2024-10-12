@@ -1,0 +1,75 @@
+.story {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  padding: 50px 120px 50px 100px;
+}
+
+.container {
+  display: flex; /* This makes your container a flexbox container */
+  justify-content: space-between; /* This will space out the children divs */
+  justify-content: center;
+  align-items: center; /* This will align the children divs vertically in the center */
+  margin-left: 7%;
+}
+
+
+.story-card, .story-image {
+  flex: 1; /* This makes both children flex and take up equal space */
+}
+
+.story-card {
+    display: block;
+    height: fit-content;
+    width: 65%;
+    margin-left: 20px;
+    border-radius: 25px;
+    background: white; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); 
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    padding: 20px;
+    flex: 1; 
+    margin: 0 20px 20px 0; 
+  }
+ .h2blue{
+  color: #0f68b5;
+  }
+  
+  .story-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .story-image img {
+    align-self: center;
+    justify-self: center;
+    height: auto; 
+    border-radius: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); 
+    max-width: 400px; 
+  }
+  .moreButton{
+    font-weight: bold;
+    color: gray;
+  }
+  .arrowImage{
+    height: 18px;
+  }
+
+  @media (max-width: 768px) {
+    .story {
+      flex-direction: column; 
+      padding: 20px; 
+    }
+  
+    .story-card {
+      width: auto; 
+      margin-bottom: 20px; 
+    }
+  
+    .story-image img {
+      margin-top: 20px;
+      max-width: 100%; 
+    }
+  }
+  

@@ -1,0 +1,11 @@
+.church-text {
+  max-width: 800px; 
+  margin: 0 auto; 
+  margin-top: 50px;
+  text-align: left; 
+  padding: 20px; 
+}
+
+.church-text h2, .church-text p {
+  margin: 0 0 20px 0; 
+}

@@ -1,0 +1,36 @@
+.mission-page {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mission-section {
+  padding: 40px 5%;
+  max-width: 800px;
+  margin: auto;
+  border-bottom: 1px solid #ccc;
+}
+
+.mission-header h2 {
+  color: #0f68b5;
+  margin-bottom: 15px;
+}
+
+.mission-description {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.mission-text {
+  list-style: inside disc;
+  padding-left: 20px;
+}
+
+.mission-text li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .mission-section {
+    padding: 20px 5%;
+  }
+}

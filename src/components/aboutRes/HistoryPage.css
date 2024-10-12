@@ -1,0 +1,69 @@
+.timeline-container {
+    margin-right: 500px;
+}
+
+.timeline {
+    position: relative;
+    width: 2px;
+    background-color: #2B88D9; 
+    margin: 20px auto;
+}
+
+.timeline-event {
+    width: 700px;
+    position: relative;
+    display: flex;
+    align-items: center; 
+    margin: 40px 0;
+}
+.TimelineHeading{
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+.event-marker {
+    position: absolute;
+    left: 0; 
+    transform: translateX(-50%);
+    width: 15px;
+    height: 15px;
+    background-color: #2B88D9;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.event-content {
+    width: 100%; 
+    margin-left: 30px; 
+}
+
+.event-content h3, .event-content h4, .event-content p {
+    pointer-events: none; /* Prevent text from capturing clicks so the entire event area is clickable */
+}
+
+@media (max-width: 768px) {
+    .timeline {
+      width: 0px;
+    }
+
+    .timeline-event {
+        display: block;
+        width: 300px;
+        margin: 20px 10px;
+        padding: 10px;
+        cursor: pointer;
+        border-bottom: 2px solid #eee;
+    }
+
+    .event-content h3, .event-content h4, .event-content p {
+        text-align: left;
+        margin-left: 0;
+    }
+    .toggle-visibility {
+        width: 20px; /* Adjust the size as needed */
+        vertical-align: middle; /* Align with the text */
+        margin-left: 10px; /* Space from the text */
+        transition: transform 0.3s ease;
+    }
+    
+}

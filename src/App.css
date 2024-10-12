@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+header{
+    font-family: 'Roboto', calibri;
+}
+  
+body{
+    font-family: 'Roboto', calibri;
+    margin: 0;
+    padding: 0;
+    background-color: #ffff;
+    font-weight: 500;
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+}
+footer{
+    font-family: 'Roboto', calibri;
+}

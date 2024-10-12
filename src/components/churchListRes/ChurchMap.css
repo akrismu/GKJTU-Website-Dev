@@ -1,0 +1,58 @@
+
+.leaflet-popup-content-wrapper {
+    padding: 0;
+    border-radius: 8px; 
+    font-family: 'Open Sans', sans-serif; 
+  }
+  
+  .leaflet-popup-content {
+    margin: 0;
+    padding: 16px;
+    line-height: 1.4;
+    color: #333; 
+  }
+  
+  .leaflet-popup-tip-container {
+    display: none; 
+  }
+  
+  .leaflet-popup-content img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 8px 8px 0 0; 
+  }
+
+  .popup-text-block {
+    padding: 12px 16px; 
+  }
+  
+  .popup-text-block h3 {
+    margin-top: 0;
+    color: #2471a3; 
+  }
+  
+  .popup-text-block p {
+    margin: 0;
+    color: #555; 
+  }
+  
+  .popup-link-button:hover {
+    background-color: #1a5a80; 
+  }
+  
+
+  .leaflet-marker-icon {
+    transition: all 0.3s ease;
+}
+
+.church-icon {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.church-icon-hover {
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+/* Custom styles for the church icon */

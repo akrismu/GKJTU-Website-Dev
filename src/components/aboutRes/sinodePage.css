@@ -1,0 +1,76 @@
+
+.about-page {
+  background-color: #f7f7f7; 
+  padding: 20px;
+  margin: 20px 10%; 
+  border-radius: 10px;
+}
+
+.about-page {
+  background-color: #f7f7f7;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.section {
+  width: 100%;
+  margin-bottom: 40px; 
+}
+
+.section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.employee-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  justify-content: center; 
+  gap: 20px;
+}
+
+.employee-card {
+  background-color: #fff; 
+  border-radius: 10px;
+  overflow: hidden; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease-in-out; 
+}
+
+.employee-card:hover {
+  transform: translateY(-5px); 
+}
+
+.employee-image-wrapper {
+  background-color: #D8F2F0; 
+  padding: 20px;
+}
+
+.employee-image {
+  width: 100%; 
+  height: auto;
+  border-radius: 5px; 
+}
+
+.employee-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.employee-info h3 {
+  margin: 10px 0 5px;
+  font-size: 1.2em;
+}
+
+.employee-info .role {
+  color: #555;
+  font-weight: bold;
+}
+
+.employee-info .bio {
+  color: #777; 
+  font-size: 0.9em;
+}
+

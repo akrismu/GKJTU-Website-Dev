@@ -1,0 +1,106 @@
+.filter-button {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    cursor: pointer;
+    color: #738598;
+    margin: 20px auto; 
+    width: 40%; 
+    border-bottom: 1px solid #eee;
+  }
+  
+  .filter-button .filter-image {
+    height: 15px;
+    margin-right: 10px; 
+  }
+  
+  .filter-dropdown {
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 150px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+    position: absolute; 
+    z-index: 100; 
+    left: 50%; 
+    transform: translateX(-50%); 
+  }
+  .dropdown-item {
+    padding: 10px;
+    cursor: pointer;
+    position: relative; 
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+
+  .dropdown-subitem {
+    padding: 5px 20px; 
+    cursor: pointer;
+  }
+  
+  .dropdown-subitem:hover {
+    background-color: #f0f0f0;
+  }
+
+  .dropdown-subitem.selected {
+    background-color: #e0e0e0; 
+    font-weight: bold;
+  }
+
+.news-listing {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .dropdown-arrow {
+    width: 15px; 
+    height: auto;
+    vertical-align: middle; 
+    margin-left: 5px; 
+  }
+
+  .news-article {
+    margin-bottom: 30px; 
+    padding-bottom: 10px; 
+    border-bottom: 1px solid #eee;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer; 
+    padding: 10px;
+    transition: background-color 0.3s ease; 
+    }
+
+.news-article:hover {
+  background-color: #f2f2f2;
+  
+}
+  
+  .news-article h2 {
+    color: #333; 
+    margin-bottom: 5px; 
+  }
+  
+  .article-meta {
+    color: #3079D9; 
+    font-size: 0.9em; 
+    margin-bottom: 10px; 
+  }
+  
+  .article-meta .author {
+    margin-right: 10px; 
+  }
+  
+  .article-meta .date {
+    font-style: italic;
+  }
+  .article-meta .churchAuthor {
+    margin-right: 10px;
+  }
+  
+  .article-preview {
+    color: #666;
+  }
+  
