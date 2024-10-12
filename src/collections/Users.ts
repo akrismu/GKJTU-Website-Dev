@@ -6,16 +6,4 @@ export const Users: CollectionConfig = {
     useAsTitle: 'email',
   },
   auth: true,
-  fields: [
-    {
-      name: 'role',
-      type: 'select',
-      required: true,
-      options: [
-        'user',
-        'admin',
-        'editor',
-      ],
-    },
-  ],
 }
