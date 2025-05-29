@@ -2,6 +2,7 @@ import React from 'react';
 import './footerRes/Footer.css'; 
 import ChurchLogo from './navRes/Unbenannt.png'; 
 import YoutubeIco from'./footerRes/social media icon/youtube.png';
+import InstagramIco from'./footerRes/social media icon/instagram.png';
 
 
 function Footer() {
