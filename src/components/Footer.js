@@ -3,8 +3,8 @@ import './footerRes/Footer.css';
 import ChurchLogo from './navRes/Unbenannt.png'; 
 import YoutubeIco from'./footerRes/social media icon/youtube.png';
 import InstagramIco from'./footerRes/social media icon/instagram.png';
-const INSTAGRAM_URL = "https://www.instagram.com/dein_username/";
-const YOUTUBE_URL = "https://www.youtube.com/@dein_kanal";
+const INSTAGRAM_URL = "https://www.instagram.com/gkjtu.media/";
+const YOUTUBE_URL = "https://www.youtube.com/@MediaGKJTU";
 
 
 function Footer() {
