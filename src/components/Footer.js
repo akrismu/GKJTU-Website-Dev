@@ -18,10 +18,11 @@ function Footer() {
         </div>
         <div className="footer-section footer-social-media">
           <img className="SocialMediaIco" src={YoutubeIco.src} alt='Youtube'></img>
+          <img className="SocialMediaIco" src={InstagramIco.src} alt='Instagram'></img>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© 2023 Gereja Kristen Jawa Tengah Utara</p>
+        <p>© 2025 Gereja Kristen Jawa Tengah Utara</p>
       </div>
     </footer>
   );
