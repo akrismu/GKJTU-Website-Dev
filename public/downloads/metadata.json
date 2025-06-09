@@ -1,0 +1,20 @@
+{
+  "pdfs": [
+    {
+      "id": "1",
+      "filename": "document1.pdf",
+      "title": "Contoh 1",
+      "description": "Newsletter 02/2025",
+      "uploadDate": "2025-05-15",
+      "size": "2.3 MB"
+    },
+    {
+      "id": "2",
+      "filename": "document2.pdf",
+      "title": "Contoh",
+      "description": "Newsletter 01/2025",
+      "uploadDate": "2025-02-20",
+      "size": "1.8 MB"
+    }
+  ]
+}
