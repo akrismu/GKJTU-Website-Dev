@@ -15,6 +15,7 @@ import MinistryPage from './components/aboutRes/ministryPage';
 import KoinoniaSite from './components/aboutRes/ministrySites/koinoniaSite';
 import MaturiaSite from './components/aboutRes/ministrySites/maturiaSite';
 import DiakoniaSite from './components/aboutRes/ministrySites/diakoniaSite';
+import SpiritualSite from './components/aboutRes/ministrySites/spiritualSite';
 import Partners from './components/Patner'
 import 'leaflet/dist/leaflet.css';
 
@@ -38,6 +39,7 @@ function App() {
           <Route path='/about/ministrys/Koinonia' element={<KoinoniaSite />} />
           <Route path='/about/ministrys/Mauturia' element={<MaturiaSite />} />
           <Route path='/about/ministrys/Diakonia' element={<DiakoniaSite />} />
+          <Route path='/about/ministrys/Spiritual' element={<SpiritualSite />} />
           <Route path='/patners' element={<Partners/>} />
         </Routes>
         <Footer />
