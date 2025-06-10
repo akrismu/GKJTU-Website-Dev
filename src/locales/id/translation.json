@@ -1,9 +1,7 @@
-
 {
   "seeMoreBtn": "See More",
-  
-  "navBar":{
-    "home":"BERANDA",
+  "navBar": {
+    "home": "BERANDA",
     "news": "BERITA",
     "churches": "GEREJA",
     "about": "INFORMASI",
@@ -12,24 +10,20 @@
     "mission": "MISI",
     "ministry": "DEPARTEMENT"
   },
-
-  "banner":{
+  "banner": {
     "welcomeMessage": "Selamat Datang!"
   },
-
   "storySection": {
     "title": "Sejarah GKJTU",
     "description": "Rincian Deskripsi, klik untuk mengetahui lebih lanjut ",
     "storyTitle": "The GKJTU (Greja Kristian Jawa Tangan Utara)",
     "story": "Pada pertengahan abad ke-19, di tengah-tengah lanskap Simo, Boyolali yang rimbun, sebuah keluarga memulai sebuah gerakan yang akan mengubah komunitas mereka dan menjadi fondasi bagi Gereja Kristen Jawa Tengah Utara (GKJTU). Kisah ini berawal dari D.D. Le Jolle, seorang pengusaha perkebunan, dan keluarganya, yang menerima Injil dengan penuh semangat, tidak hanya di dalam rumah tangga mereka, namun juga menyebarkan iman mereka kepada para karyawan dan masyarakat di sekitarnya. Tindakan iman dan penginjilan awal ini menggerakkan sebuah perjalanan yang penuh dengan pertumbuhan, tantangan, dan keyakinan yang tak tergoyahkan.",
     "more": "more..."
-    },
-
+  },
   "quickLinks": {
     "title": "Gereja",
     "description": "Informasi Gereja-Gereja di GKJTU"
   },
-
   "churchList": {
     "title": "Misi dan Penginjilan era Ibu Le Jolle (1850-1857)",
     "story": [
@@ -39,9 +33,7 @@
       "Sekitar tahun 1855 Elise yang dibantu Hoezoo meminta izin pada pemerintah Belanda untuk membuka hutan dan dijadikan pemukiman. Elise diizinkan membuka hutan di wilayah Salatiga dan tempat diberi nama Njemoh (Nyemoh), sekarang bernama Wonorejo. Sejumlah 50 orang buruh Elisabeth pindah ke tempat itu. Di tempat itu Sedaya yang menjadi pemimpin umat, sedang Elisabeth mendukung dari belakang, serta Hoezoo hanya jadi semacam konsulen. Pada tahun 1857 Elisabeth harus pulang ke Belanda karena suaminya meninggal. Kejadian ini manjadi awal persoalan dari persekutuan di Njemoh.",
       "Ditahun yang sama Le Jolle kembali ke Belanda dan menikah dengan Van Vollenhoven. Meskipun di Belanda, Le Jolle tetap memikirkan jemaat di Njemoh agar tetap bisa hidup dan terlayani. Kemudian ia menghubungi Pdt. Ds. HW Witteveen yang melayani di jemaat Ermelo-Belanda. Setelah berbincang-bincang, R.de Boer diutus ke Njemoh tanggal 27 Oktober 1868 dan tiba tanggal 4 Juni 1869. Jemaat Njemoh semakin tumbuh Tahun 1876 menjadi 70 orang. Pada tahun 1881 dusun Njemoh dijadikan satu dengan dusun lainnya dan menjadi desa dengan lurah Kristen. Nama kelurahan ini Wonoredjo."
     ]
-     
   },
-
   "newsBlock": {
     "filter": "Filter",
     "chruch": "Gereja",
@@ -50,14 +42,12 @@
     "ascending": "Terlampau",
     "descending": "Terbaru"
   },
-
   "aboutPage": {
     "title": "Board Sinode",
     "description": "Daftar Pegawai Sinode GKJTU Saat Ini",
     "chairmen": "Ketua",
     "employee": "Karyawan"
-  }, 
-
+  },
   "historyPage": {
     "title": "Sejarah",
     "timeline": "Jangka Waktu",
@@ -65,11 +55,13 @@
       {
         "year": "1850",
         "title": "Misi dan Penginjilan Dimulai",
-        "description": "Ellise Johanna le Jolle memulai usaha misionaris di Simo, Boyolali, setelah pertobatannya dan didorong oleh kebangkitan rohani yang mendalam untuk menyebarkan Injil meskipun ada hambatan budaya dan bahasa."      },
+        "description": "Ellise Johanna le Jolle memulai usaha misionaris di Simo, Boyolali, setelah pertobatannya dan didorong oleh kebangkitan rohani yang mendalam untuk menyebarkan Injil meskipun ada hambatan budaya dan bahasa."
+      },
       {
         "year": "1853",
         "title": "Fondasi Keimanan",
-        "description": "Keluarga D.D. Le Jolle mulai mengabarkan Injil di desa Simo, Boyolali, meskipun menghadapi berbagai tantangan, yang menandai dimulainya misi gereja. Kolaborasi dengan Ds. Jellesma dari Mojowarno (GKJW) membuat Petroes Sadaja (Pieter Sadaya) diutus untuk mengajar dan berkhotbah, serta membina perkembangan rohani masyarakat."      },
+        "description": "Keluarga D.D. Le Jolle mulai mengabarkan Injil di desa Simo, Boyolali, meskipun menghadapi berbagai tantangan, yang menandai dimulainya misi gereja. Kolaborasi dengan Ds. Jellesma dari Mojowarno (GKJW) membuat Petroes Sadaja (Pieter Sadaya) diutus untuk mengajar dan berkhotbah, serta membina perkembangan rohani masyarakat."
+      },
       {
         "year": "1855",
         "title": "Pendirian Njemoh (Wonorejo)",
@@ -83,7 +75,7 @@
       {
         "year": "1868-1869",
         "title": "Seorang Pemimpin Spiritual Baru",
-        "description":  "Kedatangan R. de Boer di Njemoh pada tahun 1869 membawa kepemimpinan baru, menyegarkan kongregasi yang sedang bertumbuh dengan energi spiritual yang baru. Perjalanannya dipengaruhi oleh upaya Elisabeth Le Jolle dari Belanda untuk memastikan perawatan spiritual komunitas."
+        "description": "Kedatangan R. de Boer di Njemoh pada tahun 1869 membawa kepemimpinan baru, menyegarkan kongregasi yang sedang bertumbuh dengan energi spiritual yang baru. Perjalanannya dipengaruhi oleh upaya Elisabeth Le Jolle dari Belanda untuk memastikan perawatan spiritual komunitas."
       },
       {
         "year": "1876-1881",
@@ -98,12 +90,13 @@
       {
         "year": "1935",
         "title": "Kemandirian Jemaat Purwodadi",
-        "description": "Jemaat Zending Salatiga di Purwodadi mengangkat Guru Injilnya sendiri, yang menandai sebuah langkah penting menuju tata kelola yang mandiri."     
+        "description": "Jemaat Zending Salatiga di Purwodadi mengangkat Guru Injilnya sendiri, yang menandai sebuah langkah penting menuju tata kelola yang mandiri."
       },
       {
         "year": "1937",
         "title": "Langkah-langkah Menuju Kedewasaan Organisasi",
-        "description": "Pembentukan Dewan Agoeng mewakili kemajuan menuju tata kelola gereja yang matang dan struktur organisasi, mendorong kemandirian dan pengarahan diri yang lebih besar di dalam komunitas gereja."      },
+        "description": "Pembentukan Dewan Agoeng mewakili kemajuan menuju tata kelola gereja yang matang dan struktur organisasi, mendorong kemandirian dan pengarahan diri yang lebih besar di dalam komunitas gereja."
+      },
       {
         "year": "1949",
         "title": "Pengakuan Hukum GKJTU",
@@ -129,9 +122,8 @@
         "title": "Reformasi dan Pembaruan",
         "description": "Penerapan UU No. 8 tahun 1985 mengarah pada reformasi yang signifikan, dengan fokus pada prinsip-prinsip pengajaran dan ibadah inti, yang melambangkan periode pembaharuan dan ketaatan pada doktrin-doktrin Kristen yang mendasar."
       }
-    ]    
+    ]
   },
-
   "ministryPage": {
     "departments": [
       {
@@ -158,41 +150,68 @@
     "about": "Informasi",
     "depart": "Departemen"
   },
-
   "Koinonia": {
     "header": "Departement Koinonia",
     "description": "Bidang Koinonia bertugas untuk memelihara persekutuan dalam bergereja, berklasis dan ber sinode.  Dengan tujuan persekutuan yang kuat baik dalam iman dan relasi antar umat terus terpelihara sebagai wujud pengabdian kepada Yesus Sang Kepala Gereja. Untuk menjaga persekutuan yang kuat maka bidang Koinonia memiliki 4 Departement",
     "departments": [
       {
-      "titel": "Departemen Keesaan dan Ketenagaan Gereja (DKKG)",
-      "description": "Departement yang membidangi tenaga gereja : Majelis Gereja, Guru Injil dan Pendeta dengan menyediakan program:",
-      "program": [" Memperkuat gereja gereja lokal dalam membangun persekutuan ", " Mempersiapkan dan menyediakan pendeta di gereja gereja GKJTU ", " Peningkatan kapasitas tenaga gereja melalui training dan pendidikan ", "Memberikan pendampingan kepada pendeta melalui pelayanan pastor pastorum"]
-    },
-    {
-      "titel": "Departemen Pelayanan Kategorial Anak",
-      "description": "Departemen ini secara khusus membidangi program program kepada anak anak supaya anak anak memiliki pengenalan iman dan mengimani bahwa Yesus Kristus adalah Tuhan. Program yang dilakukan",
-      "program": [" Menyediakan buku cerita sekolah Minggu ", " Meningkatkan kapasitas guru sekolah Minggu melalui training dan pendidikan ", " Menyediakan media pembelajaran bagi anak yang kontekstual", " Jambore Anak dan berbagai kegiatan bersama "]
-    },
-    {
-      "titel": "Departemen Pelayanan Pemuda",
-      "description": "Departemen ini secara khusus untuk menydiakan pelayanan dan program bagi pemuda gereja. Program pelayanan bertujuan untuk memperkuat persekutuan pemuda dalam bergereja ditengah tantangan globalisasi, memperlengkapi pemuda untuk terlibat dalam pelayanan gereja dan memperkuat iman pemuda. Program program Departemen kategorial Pemuda",
-      "program": [" Membangun Persekutuan Pemuda dengan Temu Raya Pemuda se Sinode ", " Capacity Building bagi pemuda melalui peningkatan leadership and ministry", " Capacity Building Youth and Enterpreneurship", " Menyediakan beasiswa pendidikan Teologi"]
-    },
-    {
-      "titel": "Departemen Pelayanan Perempuan",
-      "description": "Departemen yang khsusu untuk membangun persekutuan perempuan se Sinode GKJTU. Yang bertujuan untuk meningkatkan kapasitas perempuan dalam bergereja. Dengan program:",
-      "program": [" Membangun persekutuan melalui Pertemuan raya perempuan", " Memberikan dan menyediakan advokasi kepada perempuan", " Memberikan peningkatan kapasitas kepada perempuan dalam pelayanan di gereja dan komunitasnya", " Meningkatkan ketrampilan perempuan dalam mendukung kehidupan keluarga dan gereja"]
-    }
+        "titel": "Departemen Keesaan dan Ketenagaan Gereja (DKKG)",
+        "description": "Departement yang membidangi tenaga gereja : Majelis Gereja, Guru Injil dan Pendeta dengan menyediakan program:",
+        "program": [
+          " Memperkuat gereja gereja lokal dalam membangun persekutuan ",
+          " Mempersiapkan dan menyediakan pendeta di gereja gereja GKJTU ",
+          " Peningkatan kapasitas tenaga gereja melalui training dan pendidikan ",
+          "Memberikan pendampingan kepada pendeta melalui pelayanan pastor pastorum"
+        ]
+      },
+      {
+        "titel": "Departemen Pelayanan Kategorial Anak",
+        "description": "Departemen ini secara khusus membidangi program program kepada anak anak supaya anak anak memiliki pengenalan iman dan mengimani bahwa Yesus Kristus adalah Tuhan. Program yang dilakukan",
+        "program": [
+          " Menyediakan buku cerita sekolah Minggu ",
+          " Meningkatkan kapasitas guru sekolah Minggu melalui training dan pendidikan ",
+          " Menyediakan media pembelajaran bagi anak yang kontekstual",
+          " Jambore Anak dan berbagai kegiatan bersama "
+        ]
+      },
+      {
+        "titel": "Departemen Pelayanan Pemuda",
+        "description": "Departemen ini secara khusus untuk menydiakan pelayanan dan program bagi pemuda gereja. Program pelayanan bertujuan untuk memperkuat persekutuan pemuda dalam bergereja ditengah tantangan globalisasi, memperlengkapi pemuda untuk terlibat dalam pelayanan gereja dan memperkuat iman pemuda. Program program Departemen kategorial Pemuda",
+        "program": [
+          " Membangun Persekutuan Pemuda dengan Temu Raya Pemuda se Sinode ",
+          " Capacity Building bagi pemuda melalui peningkatan leadership and ministry",
+          " Capacity Building Youth and Enterpreneurship",
+          " Menyediakan beasiswa pendidikan Teologi"
+        ]
+      },
+      {
+        "titel": "Departemen Pelayanan Perempuan",
+        "description": "Departemen yang khsusu untuk membangun persekutuan perempuan se Sinode GKJTU. Yang bertujuan untuk meningkatkan kapasitas perempuan dalam bergereja. Dengan program:",
+        "program": [
+          " Membangun persekutuan melalui Pertemuan raya perempuan",
+          " Memberikan dan menyediakan advokasi kepada perempuan",
+          " Memberikan peningkatan kapasitas kepada perempuan dalam pelayanan di gereja dan komunitasnya",
+          " Meningkatkan ketrampilan perempuan dalam mendukung kehidupan keluarga dan gereja"
+        ]
+      }
     ],
     "goalTitle": "Program dan Project Bidang Koinonia tahun 2024:",
-    "goal": ["Program Pastor Help Pastor", "Trainer of Trainer Gereja Inklusi ", "Capacity Bulidng for Church Management ", "Beasiswa teologi ", "Capacity Building for Sunday school Teacher ", "Providing the book for Sunday School Childrens ", "Capacity building Youth and Leadershid GKJTU contexs ", "Workshop Climate Justice for Woman"],
+    "goal": [
+      "Program Pastor Help Pastor",
+      "Trainer of Trainer Gereja Inklusi ",
+      "Capacity Bulidng for Church Management ",
+      "Beasiswa teologi ",
+      "Capacity Building for Sunday school Teacher ",
+      "Providing the book for Sunday School Childrens ",
+      "Capacity building Youth and Leadershid GKJTU contexs ",
+      "Workshop Climate Justice for Woman"
+    ],
     "images": [
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/inuoxln8bqjdrsahnnkf.jpg",
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/lziqyj74opcjttalj4bp.jpg",
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710916967/koinonia/a72c7klvk9jpl8ix9bte.jpg"
     ]
   },
-
   "Marturia": {
     "header": "Maturia",
     "description": "Sebagaimana salah satu tugas gereja adalah memberitakan injil kepada semua bangsa. Maka GKJTU memiliki tanggung jawab untuk memberitakan kabar sukacita melalui program program melalui:",
@@ -204,7 +223,13 @@
       {
         "titel": "Lembaga Penelitian, Pengkajian dan Penerbitan Buku",
         "description": "GKJTU menyadari bahwa perubahan ditengah masyarakat terus terjadi dan selalu berkembang dengan cepat. GKJTU menyadari bahwa kehadiran gereja akan semakin berdampak dan bermakna jika pelayanan yang dilakukan relevan dengan perubahan yang terjadi. Departemen ini memiliki program:",
-        "program": ["Penelitian penelitian perubahan social dan masyarakat", "Penelitian terhadap perubahan lingkungan", "Menyediakan media pembelajaran bagi anak yang kontekstual", "Pengkajian terhadap isu isu Global yang berpengaruh kepada gereja", "Penerbitan buku buku yang relevan untuk gereja dan masyarakat."]
+        "program": [
+          "Penelitian penelitian perubahan social dan masyarakat",
+          "Penelitian terhadap perubahan lingkungan",
+          "Menyediakan media pembelajaran bagi anak yang kontekstual",
+          "Pengkajian terhadap isu isu Global yang berpengaruh kepada gereja",
+          "Penerbitan buku buku yang relevan untuk gereja dan masyarakat."
+        ]
       },
       {
         "titel": "Lembaga Pengembangan Pakerti Luhur",
@@ -212,29 +237,50 @@
       }
     ]
   },
-
   "Diakonia": {
     "header": "Diakonia",
     "description": "Salah satu tugas gereja adalah menyediakan pelayanan kepada komunitasnya. GKJTU terus belajar untuk mengembangkan pelayanan diakonia yang bersifat konvensional menuju diakonia yang transformative. Sehingga program program diakonia akan dirasakan dan berdampak secara berkelanjutan. Sasaran program diakonia tidak lagi terbatas kepada gereja tetapi dapat menjangkau kepada masyarakat yang lebih luas sehingga gereja dapat memperkenalkan iman mereka kepada semua orang.",
     "departments": [
       {
-      "titel": "Project",
-      "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana"]
+        "titel": "Project",
+        "program": [
+          "Pendampingan dan pelayanan dengan ODHA",
+          "Pendampingan dan Pelayanan kelompok terpinggirkan",
+          "Pendampingan dan Pelayanan penyandang disabilitas",
+          "Pelayanan Konseling Pastoral",
+          "Diakonia transformative pengembangan usaha",
+          "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas",
+          "Disaster Respons",
+          "Peningkatan Gereja Tangguh bencana"
+        ]
       }
-    ] 
+    ],
+    "images": [
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/xvpyofhneuggcm5uxddr",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/d9hvdytzykmhqxwrqymr",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/p0ztm2ldumn2dgwscnkl",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/a7esa9tsbazdyw8d5uli"
+    ]
   },
-
   "Spiritual": {
     "header": "Lembaga Spiritual",
     "description": "Belum ada.",
     "departments": [
       {
         "titel": "Project",
-        "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana "]
+        "program": [
+          "Pendampingan dan pelayanan dengan ODHA",
+          "Pendampingan dan Pelayanan kelompok terpinggirkan",
+          "Pendampingan dan Pelayanan penyandang disabilitas",
+          "Pelayanan Konseling Pastoral",
+          "Diakonia transformative pengembangan usaha",
+          "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas",
+          "Disaster Respons",
+          "Peningkatan Gereja Tangguh bencana "
+        ]
       }
     ]
   },
-
   "missionPage": {
     "title": "Visi & Misi",
     "description": "GKJTU berusaha untuk terus berkembang.",
@@ -242,20 +288,23 @@
       {
         "title": "Dewasa",
         "description": "Dalam hidup, kita semua harus berusaha untuk bertumbuh dan berkembang:",
-        "text": ["Mengenali perbedaan antara yang benar dan yang salah kemudian melakukan apa yang benar (Ibrani 5:14)",
-        "Tidak mudah mengikuti oleh ajaran dan pandangan pihak lain (Efesus 4:13-16)",
-        "Berakar dalam kasih (Efesus 4:13-16) – Perkataan dan tindakan dan kebijakan organisasi gereja yang “mengalir dari kasih”",
-        "Melayani gereja (Efesus 4:13-16) –Para jemaat mampu menemukan tempatnya untuk saling melayani dan memberi semangat.",
-        "Hidup dengan perspektif yang kekal (Filipi 3:13-15) – Dengan sadar berusaha merawat pertumbuhan spiritual yang berkelanjutan karena dia tahu hidup ini hanya sementara.",
-        "Mengendalikan lidahnya (Yakobus 3:2)",
-        "Mencerminkan karakter Tuhan kepada dunia (Matius 5:48)"]
+        "text": [
+          "Mengenali perbedaan antara yang benar dan yang salah kemudian melakukan apa yang benar (Ibrani 5:14)",
+          "Tidak mudah mengikuti oleh ajaran dan pandangan pihak lain (Efesus 4:13-16)",
+          "Berakar dalam kasih (Efesus 4:13-16) – Perkataan dan tindakan dan kebijakan organisasi gereja yang “mengalir dari kasih”",
+          "Melayani gereja (Efesus 4:13-16) –Para jemaat mampu menemukan tempatnya untuk saling melayani dan memberi semangat.",
+          "Hidup dengan perspektif yang kekal (Filipi 3:13-15) – Dengan sadar berusaha merawat pertumbuhan spiritual yang berkelanjutan karena dia tahu hidup ini hanya sementara.",
+          "Mengendalikan lidahnya (Yakobus 3:2)",
+          "Mencerminkan karakter Tuhan kepada dunia (Matius 5:48)"
+        ]
       },
       {
         "title": "Mandiri",
         "description": "Memiliki inisiatif dan alternatif pilihan mewujudkan kemandirian",
-        "text": ["Teologi",
-        "Sumberdaya manusia",
-        "Sumber dana guna mendukung efektivitas dan akselerasi  pelaksanaan Tri Tugas Panggilan Gereja"
+        "text": [
+          "Teologi",
+          "Sumberdaya manusia",
+          "Sumber dana guna mendukung efektivitas dan akselerasi  pelaksanaan Tri Tugas Panggilan Gereja"
         ]
       },
       {
@@ -266,7 +315,6 @@
           "Perluasan kabar sukacita bagi semua ciptaan",
           "Memanusiakan Manusia",
           "Menciptkan ruang dialog lintas karya, budaya, iman dan agama, serta perekat keutuhan dalam masyarakat yang majemuk"
-
         ]
       },
       {
@@ -280,7 +328,6 @@
       }
     ]
   },
-
   "churchPages": {
     "history": "Sejarah",
     "service": "Ibadah",
@@ -288,35 +335,38 @@
     "churches": [
       {
         "id": "ngadumang",
-      "title": "GKJTU Ngaduman",
-      "name": "GKJTU Manunggal Church, Ngaduman",
-      "previewImage": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710828800/ngadumang/preview.png",
-      "shortDescription": "Gereja GKJTU Manunggal di desa Ngaduman didirikan pada tahun 1960an yang penuh gejolak dan telah berkembang dari awal yang sederhana menjadi komunitas Kristen yang dinamis dengan hampir 300 anggota saat ini",
-      "longitude": 110.446200,
-      "latitude": -7.372680,
-      "village": "Ngadumang",
-      "bannerUrl": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710904695/ngadumang/hbobfnfprz66jqxlxycm.png",
-      "description": [
-        "Gereja GKJTU Manunggal di Desa Ngaduman didirikan pada pertengahan tahun 1960-an pada masa gejolak politik di Indonesia. Saat itu, pemerintah mewajibkan warganya untuk menganut suatu agama. Seorang petugas kesehatan bernama Pak Isai berperan penting dalam menyebarkan Agama Kristen masuk ke daerah Ngaduman melalui karyanya berkeliling antar desa.",
-        "Pada bulan Agustus 1966, 35 penduduk pertama Ngaduman dibaptis, menandai dimulainya komunitas Kristen di sana. Mereka awalnya menghadiri kebaktian di desa terdekat bernama Puyang. Karena semakin banyak penduduk Ngaduman yang berpindah agama, timbul kebutuhan akan gedung gereja lokal." ,
-        "Tanah tersebut merupakan sumbangan warga, dan pada tahun 1977 dimulailah pembangunan gedung gereja pertama di Ngaduman sendiri yang selesai pada tahun 1980. Namun, jemaah yang semakin bertambah segera membutuhkan ruangan yang lebih besar lagi.",
-        "Pada tahun 1989, pekerjaan dimulai pada sebuah gereja baru yang lebih besar yang didanai melalui upaya para anggota jemaat itu sendiri. Gedung gereja saat ini diresmikan pada bulan April 2007.",
-        "Saat ini, Gereja GKJTU Manunggal di Ngaduman memiliki total 287 anggota dari 72 keluarga. Gereja ini berfungsi sebagai rumah spiritual bagi komunitas Kristen yang berakar melalui upaya umat mula-mula hampir 60 tahun yang lalu."      
-      ],
-      "services": [
-        "Minggu 07.00 – 09.00 Ibadah Umum di Greja",
-        "Minggu 07.30 – 08.30 Sekolah Minggu di Greja",
-        "Selasa 16.30 – 17.30 Anjangsana SM di Rumah jemaat",
-        "Kamis 19.00 – 20.00 Ibadah Kelompok Doa di Rumah Jemaat",
-        "Jumat 18.30 – 19.30 Anjangsana Remaja di Pastori",
-        "Sabtu 19.00 – 20.30 Anjangsana pemuda di Rumah Jemaat"
-      ],
-      "contact": {
-        "name": "Sri Rahayu",
-        "phone": "+62 838-3955-4720",
-        "address": "Ngaduman, Tajuk, Kec. Getasan, Kabupaten Semarang, Jawa Tengah 50774"
-      },
-      "images": ["https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908269/ngadumang/wjh8ctfrz6txptcnsjqn.jpg", "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908275/ngadumang/z5p3wauhi1nrmoyftdiu.jpg"]
+        "title": "GKJTU Ngaduman",
+        "name": "GKJTU Manunggal Church, Ngaduman",
+        "previewImage": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710828800/ngadumang/preview.png",
+        "shortDescription": "Gereja GKJTU Manunggal di desa Ngaduman didirikan pada tahun 1960an yang penuh gejolak dan telah berkembang dari awal yang sederhana menjadi komunitas Kristen yang dinamis dengan hampir 300 anggota saat ini",
+        "longitude": 110.446200,
+        "latitude": -7.372680,
+        "village": "Ngadumang",
+        "bannerUrl": "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710904695/ngadumang/hbobfnfprz66jqxlxycm.png",
+        "description": [
+          "Gereja GKJTU Manunggal di Desa Ngaduman didirikan pada pertengahan tahun 1960-an pada masa gejolak politik di Indonesia. Saat itu, pemerintah mewajibkan warganya untuk menganut suatu agama. Seorang petugas kesehatan bernama Pak Isai berperan penting dalam menyebarkan Agama Kristen masuk ke daerah Ngaduman melalui karyanya berkeliling antar desa.",
+          "Pada bulan Agustus 1966, 35 penduduk pertama Ngaduman dibaptis, menandai dimulainya komunitas Kristen di sana. Mereka awalnya menghadiri kebaktian di desa terdekat bernama Puyang. Karena semakin banyak penduduk Ngaduman yang berpindah agama, timbul kebutuhan akan gedung gereja lokal.",
+          "Tanah tersebut merupakan sumbangan warga, dan pada tahun 1977 dimulailah pembangunan gedung gereja pertama di Ngaduman sendiri yang selesai pada tahun 1980. Namun, jemaah yang semakin bertambah segera membutuhkan ruangan yang lebih besar lagi.",
+          "Pada tahun 1989, pekerjaan dimulai pada sebuah gereja baru yang lebih besar yang didanai melalui upaya para anggota jemaat itu sendiri. Gedung gereja saat ini diresmikan pada bulan April 2007.",
+          "Saat ini, Gereja GKJTU Manunggal di Ngaduman memiliki total 287 anggota dari 72 keluarga. Gereja ini berfungsi sebagai rumah spiritual bagi komunitas Kristen yang berakar melalui upaya umat mula-mula hampir 60 tahun yang lalu."
+        ],
+        "services": [
+          "Minggu 07.00 – 09.00 Ibadah Umum di Greja",
+          "Minggu 07.30 – 08.30 Sekolah Minggu di Greja",
+          "Selasa 16.30 – 17.30 Anjangsana SM di Rumah jemaat",
+          "Kamis 19.00 – 20.00 Ibadah Kelompok Doa di Rumah Jemaat",
+          "Jumat 18.30 – 19.30 Anjangsana Remaja di Pastori",
+          "Sabtu 19.00 – 20.30 Anjangsana pemuda di Rumah Jemaat"
+        ],
+        "contact": {
+          "name": "Sri Rahayu",
+          "phone": "+62 838-3955-4720",
+          "address": "Ngaduman, Tajuk, Kec. Getasan, Kabupaten Semarang, Jawa Tengah 50774"
+        },
+        "images": [
+          "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908269/ngadumang/wjh8ctfrz6txptcnsjqn.jpg",
+          "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710908275/ngadumang/z5p3wauhi1nrmoyftdiu.jpg"
+        ]
       }
     ]
   }
