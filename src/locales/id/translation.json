@@ -204,7 +204,7 @@
       {
         "titel": "Lembaga Penelitian, Pengkajian dan Penerbitan Buku",
         "description": "GKJTU menyadari bahwa perubahan ditengah masyarakat terus terjadi dan selalu berkembang dengan cepat. GKJTU menyadari bahwa kehadiran gereja akan semakin berdampak dan bermakna jika pelayanan yang dilakukan relevan dengan perubahan yang terjadi. Departemen ini memiliki program:",
-        "program":["Penelitian penelitian perubahan social dan masyarakat", "Penelitian terhadap perubahan lingkungan", "Menyediakan media pembelajaran bagi anak yang kontekstual", "Pengkajian terhadap isu isu Global yang berpengaruh kepada gereja", "Penerbitan buku buku yang relevan untuk gereja dan masyarakat."]
+        "program": ["Penelitian penelitian perubahan social dan masyarakat", "Penelitian terhadap perubahan lingkungan", "Menyediakan media pembelajaran bagi anak yang kontekstual", "Pengkajian terhadap isu isu Global yang berpengaruh kepada gereja", "Penerbitan buku buku yang relevan untuk gereja dan masyarakat."]
       },
       {
         "titel": "Lembaga Pengembangan Pakerti Luhur",
@@ -219,10 +219,11 @@
     "departments": [
       {
       "titel": "Project",
-      "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana "]
+      "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana"]
       }
     ] 
   },
+
   "Spiritual": {
     "header": "Lembaga Spiritual",
     "description": "Belum ada.",
