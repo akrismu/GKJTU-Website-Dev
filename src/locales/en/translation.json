@@ -269,7 +269,9 @@
       {
         "titel": "Project",
         "program": [
-          "And an example project here!"
+          "And an example project here!",
+          "two",
+          "three"
         ]
       }
     ],
