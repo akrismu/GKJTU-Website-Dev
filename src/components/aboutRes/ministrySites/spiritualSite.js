@@ -10,8 +10,7 @@ function SpiritualSite() {
   const { t } = useTranslation();
 
   const departments = t('Spiritual.departments', { returnObjects: true });
-  const goals = t('Spiritual.goal', { returnObjects: true });
-  const images = t('Spiritual.images', { returnObjects: true });
+  /* const goals = t('Spiritual.goal', { returnObjects: true }); */  const images = t('Spiritual.images', { returnObjects: true });
 
   const [bannerData, setBannerData] = useState(null);
 
@@ -61,16 +60,6 @@ function SpiritualSite() {
               </article>
             ))}
         </section>
-        <section className='ministry-departments'>
-          <h2>{t('Spiritual.goalTitle')}</h2>
-          <ul>
-            {goals.map((goal, index) => (
-              <div key={index}>
-                <li>{goal}</li>
-              </div>
-            ))}
-          </ul>
-        </section>
         <section className='image-wrapper'>
           {images.map((imgSrc, index) => (
               <img
@@ -82,6 +71,7 @@ function SpiritualSite() {
         ))}           
         </section>
       </div>
+
    </div>
   );
 }
