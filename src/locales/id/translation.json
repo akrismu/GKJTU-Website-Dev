@@ -148,6 +148,11 @@
         "title": "Department Diakonia",
         "description": "Memperluas pelayanan yang berdampak di luar gereja, mendorong pengenalan iman kepada komunitas yang lebih luas",
         "link": "Diakonia"
+      },
+      {
+        "title": "Department Lembaga Spiritual",
+        "description": "Harus di update dahulu",
+        "link": "Spiritual"
       }
     ],
     "about": "Informasi",
@@ -217,6 +222,16 @@
       "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana "]
       }
     ] 
+  },
+  "Spiritual": {
+    "header": "Lembaga Spiritual",
+    "description": "Belum ada.",
+    "departments": [
+      {
+        "titel": "Project",
+        "program": ["Pendampingan dan pelayanan dengan ODHA", "Pendampingan dan Pelayanan kelompok terpinggirkan", "Pendampingan dan Pelayanan penyandang disabilitas", "Pelayanan Konseling Pastoral", "Diakonia transformative pengembangan usaha", "Pengembangan dan pelatihan ekonomi kreatif berbasis komunitas", "Disaster Respons", "Peningkatan Gereja Tangguh bencana "]
+      }
+    ]
   },
 
   "missionPage": {

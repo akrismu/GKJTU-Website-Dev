@@ -151,6 +151,11 @@
         "title": "Diakonia Departement",
         "description": "Extend impactful services beyond the church, fostering faith introduction to the broader community",
         "link": "Diakonia"
+      },
+      {
+        "title": "Spiritual Departement",
+        "description": "Extend impactful services beyond the church, fostering faith introduction to the broader community",
+        "link": "Spiritual"
       }
     ], 
     "about": "About",
@@ -225,6 +230,21 @@
     "images": [
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/xvpyofhneuggcm5uxddr",
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/d9hvdytzykmhqxwrqymr",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/p0ztm2ldumn2dgwscnkl",
+      "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/a7esa9tsbazdyw8d5uli"
+    ]
+  },
+
+  "Spiritual": {
+    "header": "Spiritual",
+    "description": "Add further text for spiritual departement",
+    "departments": [
+      {
+        "titel": "Project",
+        "program": ["And an example project here!"]
+      }
+    ],
+    "images": [
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/p0ztm2ldumn2dgwscnkl",
       "https://res.cloudinary.com/dlgnhmhh3/image/upload/v1710917391/diakonia/a7esa9tsbazdyw8d5uli"
     ]
